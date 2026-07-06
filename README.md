@@ -49,7 +49,7 @@ An intelligent chatbot that integrates with the platform's data engine.
 * **Machine Learning**: 
   * `scikit-learn` (Random Forest regressor and classifier pipelines)
   * `shap` (TreeExplainer waterfall plots)
-* **Generative AI**: Google Gemini API (`gemini-1.5-flash`)
+* **Generative AI**: Google Gemini API (`gemini-2.5-flash`)
 * **Database**: SQLite (persisting citizen reports locally)
 
 ---
