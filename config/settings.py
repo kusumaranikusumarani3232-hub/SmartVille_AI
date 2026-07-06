@@ -9,7 +9,7 @@ CITY_NAME       = "SmartVille"
 HACKATHON_LABEL = "Google Cloud AI Hackathon 2024"
 
 # ── Gemini Configuration ──────────────────────────────────────────────────────
-GEMINI_MODEL        = "gemini-1.5-flash"
+GEMINI_MODEL        = "gemini-2.5-flash"
 MAX_CHAT_HISTORY    = 6      # Trim history to last N turns before sending
 MAX_CONTEXT_CHARS   = 1200   # Hard cap on data-context string sent to Gemini
 
