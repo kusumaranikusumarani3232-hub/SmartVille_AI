@@ -248,7 +248,7 @@ def _render_map_and_breakdown(env_df: pd.DataFrame, start_date, end_date) -> Non
             coloraxis_colorbar=dict(
                 title="AQI",
                 tickfont=dict(color="#94a3b8"),
-                titlefont=dict(color="#94a3b8"),
+                title_font=dict(color="#94a3b8"),
             ),
         )
         st.plotly_chart(fig_map, use_container_width=True, config={"displayModeBar": False})
