@@ -182,7 +182,7 @@ def apply_chart_theme(
 
 def gemini_badge() -> None:
     st.markdown(
-        '<span class="gemini-badge">✨ Powered by Gemini 1.5 Flash</span>',
+        '<span class="gemini-badge">✨ Powered by Gemini 2.5 Flash</span>',
         unsafe_allow_html=True,
     )
 
